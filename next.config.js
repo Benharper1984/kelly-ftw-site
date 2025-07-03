@@ -1,10 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // No experimental config needed for Next.js 14 - App Router is stable
-  images: {
-    unoptimized: true
-  },
-  trailingSlash: true
+  // Standard Next.js 14 configuration for Vercel
+  reactStrictMode: true,
+  swcMinify: true
 }
 
 module.exports = nextConfig
