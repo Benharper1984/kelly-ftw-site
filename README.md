@@ -5,8 +5,7 @@ A beginner-friendly website that teaches you how to build websites using VS Code
 ## What This Site Includes
 
 - **Welcome Section**: Motivational intro with dark humor and earthen vibes
-- **Interactive Mind Maps**: D3.js visualizations showing coding possibilities and tech stacks
-- **Permaculture Coding**: Sustainable agriculture tech solutions and regenerative practices
+- **Interactive Mind Map**: Markmap-powered visualization showing the complete coding universe
 - **Step-by-Step Setup Guide**: Get from zero to building websites in minutes
 - **Website Anatomy Guide**: Learn what all the parts of a website are called
 - **AI Prompting Tools**: Survey-based prompt generator for your projects  
@@ -16,7 +15,8 @@ A beginner-friendly website that teaches you how to build websites using VS Code
 
 - 🎨 Beautiful earthen color palette with hover effects and animations
 - 📱 Fully responsive design that works on all devices
-- 🌱 Interactive permaculture coding mind map for sustainable tech solutions
+- 🧠 Interactive mind map powered by Markmap with comprehensive learning paths
+- 🌱 Sustainable agriculture and permaculture tech solutions integrated
 - 🤖 AI-powered prompting tools to generate custom project descriptions
 - 🗺️ Interactive website component mapping
 - 💾 Comprehensive Supabase integration guide
@@ -28,7 +28,7 @@ A beginner-friendly website that teaches you how to build websites using VS Code
 - **TypeScript** for type safety
 - **Tailwind CSS** for styling
 - **Framer Motion** for animations
-- **D3.js** for interactive mind maps
+- **Markmap** for interactive mind maps
 - **Lucide React** for icons
 
 ## Getting Started
@@ -49,8 +49,7 @@ src/
 └── components/
     ├── Navigation.tsx
     ├── WelcomeSection.tsx
-    ├── MindMapSection.tsx
-    ├── PermacultureMindMapSection.tsx
+    ├── MarkmapMindMapSection.tsx
     ├── JumpInSection.tsx
     ├── WebsiteMapSection.tsx
     ├── PromptingToolsSection.tsx
