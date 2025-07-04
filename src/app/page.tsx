@@ -3,8 +3,7 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
 import WelcomeSection from '@/components/WelcomeSection'
-import MindMapSection from '@/components/MindMapSection'
-import PermacultureMindMapSection from '@/components/PermacultureMindMapSection'
+import MarkmapMindMapSection from '@/components/MarkmapMindMapSection'
 import JumpInSection from '@/components/JumpInSection'
 import WebsiteMapSection from '@/components/WebsiteMapSection'
 import PromptingToolsSection from '@/components/PromptingToolsSection'
@@ -25,8 +24,7 @@ export default function Home() {
           transition={{ duration: 0.8 }}
         >
           <WelcomeSection />
-          <MindMapSection />
-          <PermacultureMindMapSection />
+          <MarkmapMindMapSection />
           <JumpInSection />
           <WebsiteMapSection />
           <PromptingToolsSection />
