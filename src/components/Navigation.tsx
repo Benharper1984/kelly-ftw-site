@@ -14,6 +14,7 @@ const Navigation: React.FC<NavigationProps> = ({ activeSection, setActiveSection
   const navItems = [
     { id: 'welcome', label: 'Welcome', emoji: '🌟' },
     { id: 'mindmap', label: 'Mind Map', emoji: '🧠' },
+    { id: 'permaculture', label: 'Permaculture', emoji: '🌱' },
     { id: 'jumpin', label: 'Jump In', emoji: '🚀' },
     { id: 'websitemap', label: 'Website Map', emoji: '🗺️' },
     { id: 'prompting', label: 'Prompting Tools', emoji: '🎯' },
